@@ -1,0 +1,25 @@
+idea:
+  title: Do LLMs Understand Nonsense Commands?
+  domain: nlp
+  hypothesis: 'Large language models may not be able to explain or interpret prompts
+    that are optimized to produce nonsensical outputs (such as high-perplexity, non-English
+    text), raising the question of whether such prompts are fundamentally different
+    from standard English prompts and whether directed jailbreaks are inherently difficult
+    to find.
+
+    '
+  background:
+    description: This idea explores whether LLMs can understand and explain prompts
+      that are intentionally optimized to produce nonsensical or high-perplexity outputs,
+      such as poems that do not resemble English. The study involves finding such
+      prompts, asking the model to explain them, and investigating if models can interpret
+      these prompts as they do with standard English, or if such directed jailbreaks
+      are rare and difficult to discover.
+  metadata:
+    source: IdeaHub
+    source_url: https://hypogenic.ai/ideahub/idea/QnPYsHR9aQDCkAc64amN
+    idea_id: do_llms_understand_nonsense_co_20251214_213848_07e775dd
+    created_at: '2025-12-14T21:38:48.208769'
+    status: submitted
+    github_repo_name: llm-nonsense-commands-gemini
+    github_repo_url: https://github.com/Hypogenic-AI/llm-nonsense-commands-gemini
