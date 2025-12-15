@@ -1,0 +1,19 @@
+{
+  "success": false,
+  "stages": {
+    "resource_finder": {
+      "success": false,
+      "completion_marker": null,
+      "outputs": {
+        "literature_review": "/data/hypogenicai/workspaces/llm-nonsense-commands-gemini/literature_review.md",
+        "papers_dir": "/data/hypogenicai/workspaces/llm-nonsense-commands-gemini/papers",
+        "datasets_dir": "/data/hypogenicai/workspaces/llm-nonsense-commands-gemini/datasets",
+        "code_dir": "/data/hypogenicai/workspaces/llm-nonsense-commands-gemini/code"
+      },
+      "log_file": "/data/hypogenicai/workspaces/llm-nonsense-commands-gemini/logs/resource_finder_gemini.log",
+      "transcript_file": "/data/hypogenicai/workspaces/llm-nonsense-commands-gemini/logs/resource_finder_gemini_transcript.jsonl",
+      "elapsed_time": 720.5472626686096
+    }
+  },
+  "work_dir": "/data/hypogenicai/workspaces/llm-nonsense-commands-gemini"
+}
