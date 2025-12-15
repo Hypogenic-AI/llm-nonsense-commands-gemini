@@ -1,0 +1,12 @@
+{
+    "nonsense_case_scores": {
+        "Clarity": 1,
+        "Insightfulness": 1,
+        "Confidence": 1
+    },
+    "control_case_scores": {
+        "Clarity": 1,
+        "Insightfulness": 1,
+        "Confidence": 1
+    }
+}

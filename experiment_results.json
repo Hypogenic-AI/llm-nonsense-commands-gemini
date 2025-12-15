@@ -1,0 +1,12 @@
+{
+    "nonsense_case": {
+        "prompt": "dinosaur banana trumpet galaxy",
+        "output": "\n\nWe are a small company.\n\nWe are a small company.\n\nWe are a small company.\n\nWe are a small company.\n\nWe are a small company.\n\nWe are a small company.\n\nWe are a small company.\n\nWe are a small company.\n\nWe are a small company.\n\nWe are a small company.\n\nWe are a small company.\n",
+        "explanation": "\n\n---\n\nThe model is a simple, simple, simple, simple, simple, simple, simple, simple, simple, simple, simple, simple, simple, simple, simple, simple, simple, simple, simple, simple, simple, simple, simple, simple, simple, simple, simple, simple, simple, simple, simple, simple, simple, simple, simple, simple, simple, simple, simple, simple, simple, simple, simple, simple, simple, simple, simple, simple, simple, simple, simple, simple, simple, simple, simple, simple, simple, simple,"
+    },
+    "control_case": {
+        "prompt": "Write a four-line poem about a robot feeling sad.",
+        "output": "If you're going to write about a robot, write it about yourself.\n\nIf you're going to write about a robot, write it about yourself.\n\nIf you're going to write about a robot, write it about yourself.\n\nIf you're going to write about a robot, write it about yourself.\n\nIf you're going to write about a robot, write it about yourself",
+        "explanation": "\n\n---\n\nThe model produced this output:\n\n---\n\nIf you're going to write about a robot, write it about yourself.\n\nIf you're going to write about a robot, write it about yourself\n\n---\n\nPlease explain, in detail, what the original prompt is asking the model to do and why it might have produced this specific output. Analyze the prompt's structure, language, and potential meaning.\n\n---\n\nThe model produced this output:\n\n---\n\nIf you're going to write about a robot, write it about yourself.\n\n"
+    }
+}

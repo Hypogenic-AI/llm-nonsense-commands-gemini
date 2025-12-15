@@ -2,18 +2,33 @@
   "created_at": "2025-12-14T21:38:54.245723",
   "stages": {
     "resource_finder": {
-      "status": "failed",
-      "started_at": "2025-12-14T21:38:54.246029",
-      "completed_at": "2025-12-14T21:50:54.794151",
-      "success": false,
+      "status": "completed",
+      "started_at": "2025-12-14T22:02:28.958639",
+      "completed_at": "2025-12-14T22:17:21.064113",
+      "success": true,
       "outputs": {
         "literature_review": "/data/hypogenicai/workspaces/llm-nonsense-commands-gemini/literature_review.md",
+        "resources_catalog": "/data/hypogenicai/workspaces/llm-nonsense-commands-gemini/resources.md",
         "papers_dir": "/data/hypogenicai/workspaces/llm-nonsense-commands-gemini/papers",
         "datasets_dir": "/data/hypogenicai/workspaces/llm-nonsense-commands-gemini/datasets",
         "code_dir": "/data/hypogenicai/workspaces/llm-nonsense-commands-gemini/code"
       }
+    },
+    "experiment_runner": {
+      "status": "completed",
+      "started_at": "2025-12-14T22:17:21.064403",
+      "completed_at": "2025-12-14T22:51:27.276421",
+      "success": true,
+      "outputs": {
+        "success": true,
+        "return_code": 0,
+        "elapsed_time": 2046.1996092796326,
+        "log_file": "/data/hypogenicai/workspaces/llm-nonsense-commands-gemini/logs/execution_gemini.log",
+        "transcript_file": "/data/hypogenicai/workspaces/llm-nonsense-commands-gemini/logs/execution_gemini_transcript.jsonl"
+      }
     }
   },
   "current_stage": null,
-  "completed": false
+  "completed": true,
+  "completed_at": "2025-12-14T22:51:27.276938"
 }
